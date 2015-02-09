@@ -1,0 +1,10 @@
+name: MobSpawnerKiller
+version: 1.0.2
+description: Destroy any mob spawning block when it spawns a mob.  Simple.
+ # We could place every author in the authors list, but chose not to for illustrative purposes
+ # Also, having an author distinguishes that person as the project lead, and ensures their 
+ # name is displayed first
+author: Sycholic
+website: http://www.spigotmc.org/resources/mob-spawner-killer.3551/
+main: com.sycholic.mobspawnerkiller.KillTheSpawner
+database: false
