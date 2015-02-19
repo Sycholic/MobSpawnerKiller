@@ -1,6 +1,6 @@
 name: MobSpawnerKiller
-version: 1.0.2
-description: Destroy any mob spawning block when it spawns a mob.  Simple.
+version: 1.0.3
+description: Destroy any mob spawning block when it spawns a mob.  Simple. 1.8 only
  # We could place every author in the authors list, but chose not to for illustrative purposes
  # Also, having an author distinguishes that person as the project lead, and ensures their 
  # name is displayed first
