@@ -33,7 +33,7 @@ import org.bukkit.event.Listener;
 /**
  *
  * @author sycholic
- * @version 1.0.2
+ * @version 1.0.3
  */
 public class KillTheSpawner extends JavaPlugin implements Listener {
     @Override
